@@ -1,5 +1,8 @@
 # Real-Time Hybrid Digital Twin and Predictive Control of an Electrified Turbocharged Engine Air Path
 
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+
+
 ## Overview
 
 This project modernizes the architecture of the 2012 Chalmers thesis **"Online modelling and control of a turbo charging system using Simulink"** into a dynamic, control-oriented and data-assisted engine air-path model.
